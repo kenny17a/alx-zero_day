@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 The school is open!
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+echo 'Alx School is so cool!'
+=======
+echo 'ALX School'
+>>>>>>> update_script
+=======
+echo 'The school is open!'
+>>>>>>> update_script
+>>>>>>> master
